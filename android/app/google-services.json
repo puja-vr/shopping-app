@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982750757152",
+    "project_id": "shopping-app-d4e65",
+    "storage_bucket": "shopping-app-d4e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982750757152:android:41b83ab5e85d4e31a2d745",
+        "android_client_info": {
+          "package_name": "com.puja.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982750757152-krrkgs7liqa16b8mc1l72fqbomb4r153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQez8FjTOXUEemc__Ha6WfW0OORbNu2Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982750757152-krrkgs7liqa16b8mc1l72fqbomb4r153.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
