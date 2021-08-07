@@ -1,16 +1,30 @@
 # shopping_app
 
-A new Flutter project.
+My first Firebase - Flutter project (Gruha Mart).
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+- User authentication
+- Products organization in Firestore
+- Tab bar view
+- Side drawer
+- Search
+- Filter
+- Pop up menu button
+- Alert dialog
+- Grid and list views
+- Google fonts
+- Hero animation
+- Shimmer effect
 
-A few resources to get you started if this is your first Flutter project:
+### Screens
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Splash screen
+- Sign in
+- Sign up
+- Home with tab bar controller
+- Cart
+- Favourites
+- Details
+- Profile
+- Contact Us
